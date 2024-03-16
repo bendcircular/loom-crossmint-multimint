@@ -82,6 +82,7 @@ const NumberInput = styled.div`
 `;
 
 const NumericField = styled.input`
+  font-family: 'Rubik', sans-serif;
   font-size: 20px;
   padding: 0;
   vertical-align: middle;
